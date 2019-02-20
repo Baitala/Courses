@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/home/pedro/programming/Courses/coursesTask9.1/coursesTask9.1.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
