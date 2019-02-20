@@ -1,0 +1,11 @@
+/home/pedro/programming/Courses/coursesTask9.1/bin/Debug/netcoreapp2.2/coursesTask9.1.deps.json
+/home/pedro/programming/Courses/coursesTask9.1/bin/Debug/netcoreapp2.2/coursesTask9.1.runtimeconfig.json
+/home/pedro/programming/Courses/coursesTask9.1/bin/Debug/netcoreapp2.2/coursesTask9.1.runtimeconfig.dev.json
+/home/pedro/programming/Courses/coursesTask9.1/bin/Debug/netcoreapp2.2/coursesTask9.1.dll
+/home/pedro/programming/Courses/coursesTask9.1/bin/Debug/netcoreapp2.2/coursesTask9.1.pdb
+/home/pedro/programming/Courses/coursesTask9.1/obj/Debug/netcoreapp2.2/coursesTask9.1.csprojAssemblyReference.cache
+/home/pedro/programming/Courses/coursesTask9.1/obj/Debug/netcoreapp2.2/coursesTask9.1.csproj.CoreCompileInputs.cache
+/home/pedro/programming/Courses/coursesTask9.1/obj/Debug/netcoreapp2.2/coursesTask9.1.AssemblyInfoInputs.cache
+/home/pedro/programming/Courses/coursesTask9.1/obj/Debug/netcoreapp2.2/coursesTask9.1.AssemblyInfo.cs
+/home/pedro/programming/Courses/coursesTask9.1/obj/Debug/netcoreapp2.2/coursesTask9.1.dll
+/home/pedro/programming/Courses/coursesTask9.1/obj/Debug/netcoreapp2.2/coursesTask9.1.pdb
