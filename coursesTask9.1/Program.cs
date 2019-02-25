@@ -29,7 +29,7 @@ namespace coursesTask9._1
             int substraction = a - b;
             int multiplication = a * b;
             int division = a / b;
-            double divisionDouble = System.Convert.ToDouble(division);
+            double divisionDouble = System.Convert.ToDouble(division); //trying to fix missed value
 
             //Output
             Console.WriteLine("Calculations output");
